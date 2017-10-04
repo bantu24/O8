@@ -44,11 +44,43 @@
 		}
 		,
 		{
-			"name": "android o",
-			"author": "Unsplash",
+			"name": "Android O",
+			"author": "Android",
 			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/android_o.png",
 			"dimensions": "2880 x 2550",
-			"copyright": "CC0"
+			"copyright": ""
+		}
+		,
+		{
+			"name": "Android O_1",
+			"author": "Android",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/Android Oreo_1.jpg",
+			"dimensions": "2880 x 2560",
+			"copyright": ""
+		}
+		,
+		{
+			"name": "Android O_2",
+			"author": "Android",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/Android Oreo_2.jpg",
+			"dimensions": "2880 x 2560",
+			"copyright": ""
+		}
+		,
+		{
+			"name": "Android O_3",
+			"author": "Android",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/Android Oreo_3.jpg",
+			"dimensions": "2880 x 2560",
+			"copyright": ""
+		}
+		,
+		{
+			"name": "Android O_4",
+			"author": "Android",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/Android Oreo_4.jpg",
+			"dimensions": "2880 x 2560",
+			"copyright": ""
 		}
 	]
 }
