@@ -1,0 +1,140 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "People"
+            },
+            {
+                "name": "Architecture"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Mountain"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Sunset"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Satellite"
+            },
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Ocean"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+			"name": "wall1",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall1.jpg",
+			"category": "Architecture"
+		},
+		{
+			"name": "wall2",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall2.jpg",
+			"category": "Mountain"
+
+		},
+		{
+			"name": "wall3",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall3.jpg",
+			"category": "Beach"
+		},
+		{
+			"name": "wall4",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall4.jpg",
+			"category": "Beach"
+		},
+		{
+			"name": "wall5",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall5.jpg",
+			"category": "Road"
+
+		},
+		{
+			"name": "wall6",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall6.jpg",
+			"category": "Beach"
+
+		},
+		{
+			"name": "wall7",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall7.jpg",
+			"category": "Forest"
+
+		}
+		,
+		{
+			"name": "wall8",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall8.jpg",
+			"category": "Mountain"
+			
+		}
+		,
+		{
+			"name": "Android O",
+			"author": "Android",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/android_o.png",
+			"category": "Satellite"
+		}
+		,
+		{
+			"name": "Android O_1",
+			"author": "Android",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/Android%20Oreo_1.jpg",
+			"category": "Ocean"
+		}
+		,
+		{
+			"name": "Android O_2",
+			"author": "Android",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/Android Oreo_2.jpg",
+			"category": "Beach"
+		}
+		,
+		{
+			"name": "Android O_3",
+			"author": "Android",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/Android Oreo_3.jpg",
+			"category": "Nature"
+		}
+		,
+		{
+			"name": "Android O_4",
+			"author": "Android",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/Android Oreo_4.jpg",
+			"category": "Ocean"
+		}
+		]
+}
