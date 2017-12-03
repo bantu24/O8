@@ -49,20 +49,20 @@
         [
 			{
 			"name": "wall1",
-			"author": "Unsplash",
+			"author": "Ambrose Chua",
 			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall1.jpg",
 			"category": "Architecture"
 		},
 		{
 			"name": "wall2",
-			"author": "Unsplash",
+			"author": "Andreas Kind",
 			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall2.jpg",
 			"category": "Mountain"
 
 		},
 		{
 			"name": "wall3",
-			"author": "Unsplash",
+			"author": "Lachlan Dempsey",
 			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall3.jpg",
 			"category": "Beach"
 		},
@@ -74,7 +74,7 @@
 		},
 		{
 			"name": "wall5",
-			"author": "Unsplash",
+			"author": "Samuele Errico Piccarini",
 			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall5.jpg",
 			"category": "Road"
 
@@ -96,9 +96,66 @@
 		,
 		{
 			"name": "wall8",
-			"author": "Unsplash",
+			"author": "Simon Matzinger",
 			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall8.jpg",
 			"category": "Mountain"
+			
+		}
+		,
+		{
+			"name": "wall9",
+			"author": "Luca Zanon",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall9.jpg",
+			"category": "Mountain"
+			
+		}
+		,
+		{
+			"name": "wall10",
+			"author": "Daniel Roe",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall10.jpg",
+			"category": "Mountain"
+			
+		}
+		,
+		{
+			"name": "wall11",
+			"author": "Nattu Adnan",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall11.jpg",
+			"category": "Beach"
+			
+		}
+		,
+		{
+			"name": "wall12",
+			"author": "Simone Hutsch",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall12.jpg",
+			"category": "Architecture"
+			
+		}
+		,
+		{
+			"name": "wall13",
+			"author": "Riccardo Oliva",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall13.jpg",
+			"category": "Architecture"
+			
+		}
+		,
+		{
+			"name": "wall14",
+			"author": "Wes Hicks",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall14.jpg",
+			"category": "Nature"
+			
+		}
+		,
+		
+		{
+			"name": "wall15",
+			"author": "Greg Rakozy",
+			"url": "https://raw.githubusercontent.com/bantu24/O8/master/wallpapers/wall15.jpg",
+			"category": "Nature"
 			
 		}
 		,
